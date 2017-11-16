@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(11 16, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Jacob Roberts)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(jquery assignment, Recipe Display Application.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://jgr15.github.io/lesson7_jquery/ .)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (jQuery can be used to add javascript elements to a page.)
+2. (How to edit code in the javascript console pane.)
+3. (Adding hover elements to a jquery page.)
 
